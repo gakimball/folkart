@@ -1,0 +1,240 @@
+/*
+	GENERAL
+*/
+* { 
+	margin: 0;
+	padding: 0;
+	line-height: 1em; }
+body { 
+	background: #666;
+	background: url('../img/bg.jpg') repeat;
+	color: #fff;
+	font-size: 100%;
+	font-family: Georgia, serif; }
+#wrapper {
+	width: 700px;
+	margin: 0 auto; }
+p { 
+	font-size: 1em;
+	line-height: 1.5em; }
+p.gallery {
+	width: 36em; }
+
+/*
+	HEADERS
+*/
+h1, h2 { 
+	font-variant: small-caps; }
+h1 { 
+	font-size: 3em;
+	font-style: italic;
+	margin: 15px 0;
+	text-align: center;
+	text-shadow: 2px 1px 0 #000; }
+h2 { 
+	font-size: 2em;
+	margin: 15px 0;
+	padding: 8px 0;
+	text-align: center;
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #999;
+	clear: both; }
+
+/*
+	PRINT STYLE DESCRIPTIONS
+*/
+
+.col { 
+	width: 342px;
+	margin-bottom: 20px;
+	float: left; }
+.col > img { 
+	display: block;
+	margin: 0 auto; }
+.col > p { 
+	line-height: 1.2em; }
+.col-last { 
+	float: right; }
+.col > a > img { 
+	width: inherit; }
+.col > a { 
+	display: block;
+	margin: 0 auto 15px auto;
+	width: 225px; }
+.col-last > a { 
+	width: 250px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+/*
+	NAVIGATION
+*/
+#nav, #nav > li, #nav > li > a { 
+	height: 60px;
+	line-height: 60px; }
+#nav { 
+	background: rgba(0,0,0,0.2);
+	border-radius: 5px;
+	margin-bottom: 15px; }
+#nav { 
+	text-align: center; }
+#nav > li { 
+	display: inline-block; }
+#nav > li > a:link, #nav > li > a:visited { 
+	display: block;
+	color: #fff;
+	text-decoration: none;
+	font-size: 1.25em;
+	padding: 0 10px;
+}
+#nav > li > a:hover { 
+	background: #333;
+	background: rgba(0,0,0,0.2);
+}
+
+/*
+	BODY PARAGRAPH
+*/
+.gallery { 
+	margin: 0 auto 10px auto; }
+.gallery > a:link, .gallery > a:visited, #footer > a:link, #footer > a:visited { 
+	color: #a2d3cc; }
+.gallery > a:hover, #footer > a:hover { 
+	text-decoration: none; }
+
+/*
+	GALLERY
+*/
+#gallery { 
+	width: 1000px;
+	margin: 20px 0;
+	position: relative;
+	left: -150px;
+	background: rgba(0,0,0,0.1); }
+#gallery, #gallery-list, #gallery-view { 
+	height: 500px; }
+.giclee-gallery#gallery, .giclee-gallery #gallery-list, .giclee-gallery #gallery-view {
+	height: 550px; }
+#gallery-list { 
+	border-radius: 10px;
+	background: #600;
+	width: 280px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	list-style-type: none; }
+#gallery-list > p { 
+	font-size: 0.8em;
+	text-align: center;
+	color: #ccc;
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 6px; }
+#gallery-list > li > a:link, #gallery-list > li > a:visited { 
+	display: block;
+	text-align: center;
+	font-size: 1.1em;
+	color: #fff;
+	text-decoration: none;
+	padding: 8px 0; }
+#gallery-list > li > a:hover, #gallery-list > li > a.active { 
+	background: #333;
+	background: -webkit-linear-gradient(top,#222,#000);
+}
+#gallery-view { 
+	list-style-type: none;
+	padding-left: 280px;
+	height: 500px;
+	overflow: hidden;
+}
+.gallery-item { 
+	width: 680px;
+	height: 460px;
+	padding: 20px;
+	position: relative;
+	text-align: center;
+}
+.giclee-gallery .gallery-item {
+	height: 510px; }
+.horz { 
+	max-width: 680px;
+	max-height: 460px;
+}
+.giclee-gallery .horz {
+	max-height: 510px; }
+.vert { 
+	height: 460px; }
+.giclee-gallery .vert {
+	height: 510px;
+}
+.gallery-info { 
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+	padding: 15px;
+	width: 650px;
+	background: rgba(0,0,0,0.65);
+	text-align: right;
+}
+.gallery-info > h3 { 
+	font-size: 2.5em;
+	margin-bottom: 5px;
+}
+.gallery-info > p { 
+	font-size: 1.1em;
+	color: #ccc;
+	font-family: sans-serif; }
+
+/*
+	SCHEDULE
+*/
+
+.sch-item { 
+	margin-bottom: 20px;
+	text-align: center; }
+.sch-item > h3 { 
+	font-size: 1.4em;
+	margin: 0 auto 4px auto;
+	width: 500px; }
+.sch-item > p { 
+	color: #eee;
+	line-height: 1.25em; }
+
+/*
+	CONTACT
+*/
+
+.contact { 
+	width: 220px;
+	margin-right: 20px;
+	margin-bottom: 30px;
+	float: left; }
+#con-address { 
+	margin: 0; }
+.contact > h3 { 
+	font-size: 1.4em;
+	color: #fff;
+	margin-bottom: 5px; }
+.contact > p { 
+	color: #ccc; }
+#con-phone > p { 
+	font-size: 1.75em; }
+#con-email > p { 
+	font-size: 1.25em; }
+#con-address > p { 
+	font-size: 1.15em; }
+
+/*
+	FOOTER
+*/
+
+#footer { 
+	font-size: 0.9em;
+	color: #ccc;
+	font-style: italic;
+	clear: both;
+	width: 100%;
+	margin-bottom: 15px;
+	text-align: center;
+	text-shadow: 0 -1px 0 #000; }
