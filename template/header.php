@@ -3,7 +3,7 @@
 	<head>
 		<title>Keith Millison Folk Art</title>
 		<meta charset="utf-8">
-		<link rel="stylesheet" href="css/style.css?v2">
+		<link rel="stylesheet" href="css/style.css?v3">
 		<!--[if IE 7]>
 		<link rel="stylesheet" href="css/ie7.css">
 		<![endif]-->

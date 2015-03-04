@@ -7,7 +7,12 @@
 <div id="gallery" class="giclee-gallery">
 	<ul id="gallery-list">
 		<p>Gicleé Prints</p>
-		<li><a href="#folkart" class="active">American Folk Art</a></li>
+		<li><a href="#give-me-a-home" class="active">Give Me a Home</a></li>
+		<li><a href="#live-simply">Live Simply</a></li>
+		<li><a href="#liberty-farm">Liberty Farm</a></li>
+		<li><a href="#oley-valley">Oley Valley</a></li>
+		<li><a href="#riverside-antiques">Riverside Antiques</a></li>
+		<li><a href="#folkart">American Folk Art</a></li>
 		<li><a href="#fairfield">Little Miss Fairfield</a></li>
 		<li><a href="#flowers-blue">Flowers in Blue Striped Vase</a></li>
 		<li><a href="#flowers-red">Flowers in Red Striped Vase</a></li>
@@ -24,6 +29,41 @@
 		<li><a href="#craft-town">Craft Town</a></li>
 	</ul>
 	<ul id="gallery-view">
+		<li class="gallery-item" id="give-me-a-home">
+			<img class="gallery-img horz" src="img/giclee/give-me-a-home.jpg" alt="American Folk Art">
+			<div class="gallery-info">
+				<h3>Give Me a Home</h3>
+				<p>10"x12" • 15"x18" • 20"x24" • 25"x39" • 30"x36"</p>
+			</div>
+		</li>
+		<li class="gallery-item" id="live-simply">
+			<img class="gallery-img horz" src="img/giclee/live-simply.jpg" alt="American Folk Art">
+			<div class="gallery-info">
+				<h3>Live Simply</h3>
+				<p>9"x12" • 12"x16" • 18"x24"</p>
+			</div>
+		</li>
+		<li class="gallery-item" id="liberty-farm">
+			<img class="gallery-img horz" src="img/giclee/liberty-farm.jpg" alt="American Folk Art">
+			<div class="gallery-info">
+				<h3>Liberty Farm</h3>
+				<p>9"x12" • 12"x16" • 15"x20" • 18"x24" • 24"x32"</p>
+			</div>
+		</li>
+		<li class="gallery-item" id="oley-valley">
+			<img class="gallery-img horz" src="img/giclee/oley-valley.jpg" alt="American Folk Art">
+			<div class="gallery-info">
+				<h3>Oley Valley</h3>
+				<p>12"x15" • 16"x20" • 20"x25" • 24"x30"</p>
+			</div>
+		</li>
+		<li class="gallery-item" id="riverside-antiques">
+			<img class="gallery-img horz" src="img/giclee/riverside-antiques.jpg" alt="American Folk Art">
+			<div class="gallery-info">
+				<h3>Riverside Antiques</h3>
+				<p>12"x15" • 16"x29"</p>
+			</div>
+		</li>
 		<li class="gallery-item" id="folkart">
 			<img class="gallery-img horz" src="img/giclee/amer.jpg" alt="American Folk Art">
 			<div class="gallery-info">
