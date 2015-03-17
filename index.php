@@ -14,23 +14,31 @@
 			<h2>2014 Show Schedule</h2>
 
 			<div class="sch-item">
-				<h3>American Heritage Craftsman &amp; Artisan Show</h3>
-				<p class="sch-place">Mason, OH</p>
-				<p class="sch-date">Fri. July 18, 6&ndash;9PM</p>
-				<p class="sch-date">Fri. July 19, 10AM&ndash;5PM</p>
-				<p class="sch-date">Fri. July 20, 11AM&ndash;4PM</p>
+				<h3>Old Mill Festival</h3>
+				<p class="sch-place">Courthouse Square</p>
+				<p class="sch-place">Noblesville, IN</p>
+				<p class="sch-date">Sat. June 6, 9AM&ndash;4PM</p>
 			</div>
 
 			<div class="sch-item">
 				<h3>Traditional Artisans at Zoar Harvest Festival</h3>
 				<p class="sch-place">Zoar, OH</p>
-				<p class="sch-date">Sat.&ndash;Sun. August 2&ndash;3, 10AM&ndash;5PM</p>
+				<p class="sch-date">Sat. August 1, 10AM&nash;6PM</p>
+				<p class="sch-date">Sun. August 2, 10AM&nash;5PM</p>
 			</div>
 
 			<div class="sch-item">
-				<h3>71st Annual Waterford Homes Tour and Crafts Exhibit</h3>
+				<h3>18th Annual Carmel International Arts Festival</h3>
+				<p class="sch-place">Main Street</p>
+				<p class="sch-place">Carmel, IN</p>
+				<p class="sch-date">Sat. September 26, 10AM&ndash;6PM</p>
+				<p class="sch-date">Sun. September 27, 10AM&ndash;5PM</p>
+			</div>
+
+			<div class="sch-item">
+				<h3>72nd Waterford Homes Tour &amp; Craft Exhibit</h3>
 				<p class="sch-place">Waterford, VA</p>
-				<p class="sch-date">Fri.&ndash;Sun. October 3&ndash;5, 10AM&ndash;5PM</p>
+				<p class="sch-date">Fri.&ndash;Sun. October 2&ndash;4, 10AM&ndash;5PM</p>
 			</div>
 			
 			<h2 id="contact">Contact</h2>
