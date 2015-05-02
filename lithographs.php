@@ -12,7 +12,7 @@
 		<li><a href="#nighttime-friends">Nighttime Friends</a></li>
 		<li><a href="#church-street">Church Street</a></li>
 		<li><a href="#color-in-life">Color in Life</a></li>
-		<li><a href="#evelytons-pineapple">Evelyton's Pineapple</a></li>
+		<li><a href="#evelytons-pineapple">Evelynton's Pineapple</a></li>
 		<!-- <li><a href="#give-thanks">Give Thanks in All Things</a></li> -->
 		<!-- <li><a href="#joshua">Joshua 24:15</a></li> -->
 		<li><a href="#lincoln">Lincoln and Friend</a></li>
@@ -22,7 +22,7 @@
 	</ul>
 	<ul id="gallery-view">
 		<li class="gallery-item" id="amazing-grace">
-			<img src="img/lithographs/church-street.jpg" alt="Amazing Grace" class="gallery-img vert" />
+			<img src="img/lithographs/amazing-grace.jpg" alt="Amazing Grace" class="gallery-img vert" />
 			<div class="gallery-info">
 				<h3>Amazing Grace</h3>
 				<p>6"x8" • 9"x12"</p>
@@ -59,7 +59,7 @@
 		<li class="gallery-item" id="evelytons-pineapple">
 			<img src="img/lithographs/evelytons-pineapple.jpg" alt="Evelyton's Pineapple" class="gallery-img vert" />
 			<div class="gallery-info">
-				<h3>Evelyton's Pineapple</h3>
+				<h3>Evelynton's Pineapple</h3>
 				<p>6"x8"</p>
 			</div>
 		</li>

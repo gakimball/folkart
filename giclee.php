@@ -33,7 +33,7 @@
 			<img class="gallery-img horz" src="img/giclee/give-me-a-home.jpg" alt="American Folk Art">
 			<div class="gallery-info">
 				<h3>Give Me a Home</h3>
-				<p>10"x12" • 15"x18" • 20"x24" • 25"x39" • 30"x36"</p>
+				<p>10"x12" • 15"x18" • 20"x24" • 25"x30" • 30"x36"</p>
 			</div>
 		</li>
 		<li class="gallery-item" id="live-simply">
@@ -61,7 +61,7 @@
 			<img class="gallery-img horz" src="img/giclee/riverside-antiques.jpg" alt="American Folk Art">
 			<div class="gallery-info">
 				<h3>Riverside Antiques</h3>
-				<p>12"x15" • 16"x29"</p>
+				<p>12"x15" • 16"x20"</p>
 			</div>
 		</li>
 		<li class="gallery-item" id="folkart">
@@ -159,7 +159,7 @@
 			<img src="img/giclee/paradise-hamlet.jpg" alt="Paradise Hamlet" class="gallery-img horz" />
 			<div class="gallery-info">
 				<h3>Paradise Hamlet</h3>
-				<p>15"x20" • 18"x24" • 24"x32"</p>
+				<p>12"x6" • 15"x20" • 18"x24" • 24"x32"</p>
 			</div>
 		</li>
 		<li class="gallery-item" id="craft-town">

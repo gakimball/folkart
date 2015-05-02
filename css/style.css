@@ -197,7 +197,8 @@ h2 {
 .sch-item > h3 { 
 	font-size: 1.4em;
 	margin: 0 auto 4px auto;
-	width: 500px; }
+	width: 500px;
+	line-height: 1.4; }
 .sch-item > p { 
 	color: #eee;
 	line-height: 1.25em; }

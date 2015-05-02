@@ -11,7 +11,7 @@
 				<p>Our fine lithographs are mounted on board with a laminate. All prints are sold in 2"-wide hand-grained frames.</p>
 			</div>
 			
-			<h2>2014 Show Schedule</h2>
+			<h2>2015 Show Schedule</h2>
 
 			<div class="sch-item">
 				<h3>Old Mill Festival</h3>
@@ -23,8 +23,8 @@
 			<div class="sch-item">
 				<h3>Traditional Artisans at Zoar Harvest Festival</h3>
 				<p class="sch-place">Zoar, OH</p>
-				<p class="sch-date">Sat. August 1, 10AM&nash;6PM</p>
-				<p class="sch-date">Sun. August 2, 10AM&nash;5PM</p>
+				<p class="sch-date">Sat. August 1, 10AM&mdash;6PM</p>
+				<p class="sch-date">Sun. August 2, 10AM&mdash;5PM</p>
 			</div>
 
 			<div class="sch-item">
