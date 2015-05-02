@@ -14,13 +14,6 @@
 			<h2>2015 Show Schedule</h2>
 
 			<div class="sch-item">
-				<h3>Old Mill Festival</h3>
-				<p class="sch-place">Courthouse Square</p>
-				<p class="sch-place">Noblesville, IN</p>
-				<p class="sch-date">Sat. June 6, 9AM&ndash;4PM</p>
-			</div>
-
-			<div class="sch-item">
 				<h3>Traditional Artisans at Zoar Harvest Festival</h3>
 				<p class="sch-place">Zoar, OH</p>
 				<p class="sch-date">Sat. August 1, 10AM&mdash;6PM</p>
