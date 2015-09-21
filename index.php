@@ -21,14 +21,6 @@
 			</div>
 
 			<div class="sch-item">
-				<h3>18th Annual Carmel International Arts Festival</h3>
-				<p class="sch-place">Main Street</p>
-				<p class="sch-place">Carmel, IN</p>
-				<p class="sch-date">Sat. September 26, 10AM&ndash;6PM</p>
-				<p class="sch-date">Sun. September 27, 10AM&ndash;5PM</p>
-			</div>
-
-			<div class="sch-item">
 				<h3>72nd Waterford Homes Tour &amp; Craft Exhibit</h3>
 				<p class="sch-place">Waterford, VA</p>
 				<p class="sch-date">Fri.&ndash;Sun. October 2&ndash;4, 10AM&ndash;5PM</p>
