@@ -2,7 +2,7 @@
 
 <h2>Gicleé Prints</h2>
 
-<p class="gallery"><i>Hover over any image to view available sizes.</i> Our gicleé prints on canvas are the highest quality available. All prints are sold in 2"-wide hand-grained frames or gold frames. For details on pricing and availability, please feel free to <a href="index.php#contact">contact us.</a></p>
+<p class="gallery"><i>Hover over any image to view available sizes.</i> Our gicleé prints on canvas are the highest quality available. All prints are sold in 2"-wide hand-grained frames or gold frames, which adds 4" to each dimension of the print (i.e., the framed size of a 10x12 print is 14x16). . For details on pricing and availability, please feel free to <a href="index.php#contact">contact us.</a></p>
 
 <div id="gallery" class="giclee-gallery">
 	<ul id="gallery-list">

@@ -2,7 +2,7 @@
 
 <h2>Lithographs</h2>
 
-<p class="gallery"><i>Hover your cursor over any image to view available sizes.</i> Our fine lithographs are mounted on board with a laminate. All prints are sold in 2"-wide hand-grained frames. For details on pricing and availability, please feel free to <a href="index.php#contact">contact us.</a></p>
+<p class="gallery"><i>Hover your cursor over any image to view available sizes.</i> Our fine lithographs are mounted on board with a laminate. All prints are sold in 2"-wide hand-grained frames, which adds 4" to each dimension of the print (i.e., the framed size of a 10x12 print is 14x16). For details on pricing and availability, please feel free to <a href="index.php#contact">contact us.</a></p>
 
 <div id="gallery">
 	<ul id="gallery-list">
