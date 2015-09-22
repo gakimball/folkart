@@ -7,7 +7,8 @@
 <div id="gallery" class="giclee-gallery">
 	<ul id="gallery-list">
 		<p>Gicleé Prints</p>
-		<li><a href="#give-me-a-home" class="active">Give Me a Home</a></li>
+		<li><a href="#peaceable-kingdom" class="active">The Peaceable Kingdom</a></li>
+		<li><a href="#give-me-a-home">Give Me a Home</a></li>
 		<li><a href="#live-simply">Live Simply</a></li>
 		<li><a href="#liberty-farm">Liberty Farm</a></li>
 		<li><a href="#oley-valley">Oley Valley</a></li>
@@ -29,6 +30,13 @@
 		<li><a href="#craft-town">Craft Town</a></li>
 	</ul>
 	<ul id="gallery-view">
+		<li class="gallery-item" id="peaceable-kingdom">
+			<img class="gallery-img horz" src="img/giclee/the-peaceable-kingdom.jpg" alt="The Peaceable Kingdom">
+			<div class="gallery-info">
+				<h3>The Peaceable Kingdom</h3>
+				<p>10"x12" • 15"x18" • 20"x24" • 25"x30" • 30"x36"</p>
+			</div>
+		</li>
 		<li class="gallery-item" id="give-me-a-home">
 			<img class="gallery-img horz" src="img/giclee/give-me-a-home.jpg" alt="American Folk Art">
 			<div class="gallery-info">
