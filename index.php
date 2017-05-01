@@ -11,21 +11,6 @@
 				<p>Our fine lithographs are mounted on board with a laminate. All prints are sold in 2"-wide hand-grained frames.</p>
 			</div>
 
-			<h2>2016 Show Schedule</h2>
-
-			<div class="sch-item">
-				<h3>Traditional Artisans at Zoar Harvest Festival</h3>
-				<p class="sch-place">Zoar, OH</p>
-				<p class="sch-date">Sat. August 6, 10AM&mdash;5PM</p>
-				<p class="sch-date">Sun. August 7, 10AM&mdash;4PM</p>
-			</div>
-
-			<div class="sch-item">
-				<h3>The Waterford Fair</h3>
-				<p class="sch-place">Waterford, VA</p>
-				<p class="sch-date">Fri.&ndash;Sun. October 7&ndash;9, 10AM&ndash;5PM</p>
-			</div>
-
 			<h2 id="contact">Contact</h2>
 
 			<div class="contact" id="con-phone">
