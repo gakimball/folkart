@@ -1,4 +1,18 @@
 {
   "name": "folkart",
-  "alias": "keithmillisonart.com"
+  "alias": "keithmillisonart.com",
+  "version": 2,
+  "builds": [
+    {
+      "src": "*.php",
+      "use": "@now/php",
+      "config": {
+        "maxLambdaSize": "15mb"
+      }
+    },
+    {
+      "src": "**/*.{css,jpg,js}",
+      "use": "@now/static"
+    }
+  ]
 }
